@@ -23,6 +23,7 @@ public class Main {
         System.out.println("el resultado es: " + calculadora.sumar(10, 25));
         
         System.out.println("El atributo pblic es: " + calculadora.obtenerTipo());
+        System.out.println("El tipo de calculadora es: " +calculadora2.obtenerTipo());
     }
     
 }
